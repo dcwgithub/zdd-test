@@ -1,0 +1,19 @@
+{
+    "name": "test/zdd-test",
+    "description": "一个测试的packagist包不用管它",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangdongdong",
+            "email": "dcwwll@163.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
