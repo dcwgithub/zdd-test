@@ -1,5 +1,5 @@
 {
-    "name": "test/zdd-test",
+    "name": "test_zdd5/zdd-test",
     "description": "一个测试的packagist包不用管它",
     "type": "library",
     "require": {
